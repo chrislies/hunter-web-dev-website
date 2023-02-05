@@ -1,1 +1,3 @@
-# hunter-web-dev-website
+# Web Dev Assignment 1
+
+Chris Lai
