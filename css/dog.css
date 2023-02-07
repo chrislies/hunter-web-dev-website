@@ -27,6 +27,10 @@
     border-color: black;
     border-radius: 50px;
 }
+table {
+    display: flex;
+    justify-content: center;
+}
 td {
     background-color:rgb(189, 237, 190);
     text-align: center;
