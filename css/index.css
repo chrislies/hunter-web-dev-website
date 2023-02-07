@@ -15,3 +15,8 @@
 .heading2 {
     font-size: 25px;
 }
+.images{
+    flex-direction: column;
+    height: auto;
+    width: 100px;
+}
