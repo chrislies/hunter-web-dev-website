@@ -38,9 +38,9 @@ img{
     width: 300px;
 }
 .element {
-    
-    align-items: center;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
     margin-top: 30px;
 }
 a, button {
