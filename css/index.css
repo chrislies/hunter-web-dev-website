@@ -1,0 +1,22 @@
+/*target everything under "header" class*/
+.header * {
+    text-align: center;
+    color: white;
+    text-shadow: -1px -1px 0 #000, 
+               1px -1px 0 #000, 
+               -1px 1px 0 #000, 
+               1px 1px 0 #000;
+    padding: 0px;
+    margin: 0px;
+}
+#heading {
+    font-size: 50px;
+}
+.heading2 {
+    font-size: 25px;
+}
+.images{
+    flex-direction: column;
+    height: auto;
+    width: 100px;
+}
